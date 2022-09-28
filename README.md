@@ -7,12 +7,8 @@
 
 - 🌱 I’m currently learning **STUDENT**
 
-- How to reach me **aremandaramakrishnasai@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rama krishna sai aremanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rama krishna sai aremanda" height="30" width="40" /></a>
-<a href="https://fb.com/aremanda ramakrishnasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aremanda ramakrishnasai" height="30" width="40" /></a>
 <a href="https://instagram.com/resoner_ark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="resoner_ark" height="30" width="40" /></a>
 </p>
 
